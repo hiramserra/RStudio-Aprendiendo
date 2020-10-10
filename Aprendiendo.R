@@ -1,2 +1,4 @@
 print("Este archivo fue creado dentro de RStudio")
 print("Y ahora viene GitHub")
+
+print("Segunda prueba")
